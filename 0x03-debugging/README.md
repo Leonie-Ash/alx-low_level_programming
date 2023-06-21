@@ -1,1 +1,1 @@
-manual debugging
+Debugging
