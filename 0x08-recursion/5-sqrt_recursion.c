@@ -3,7 +3,7 @@
 
 int _sqrt(int n, int i);
 /**
- * _sqrt_recursion _ returns square root of a number
+ * _sqrt_recursion -  returns square root of a number
  * @n: number whose square root is being calculated
  * Return: result of square root of n
  */
