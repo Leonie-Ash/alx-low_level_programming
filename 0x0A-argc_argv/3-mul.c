@@ -3,10 +3,10 @@
 #include <stdlib.h>
 
 /**
- * main - prints multiplication of two large numbers
+ * main - prints the multiplication of two arguments
  * @argc: argument count
  * @argv: argument vector
- * Return; always zero
+ * Return: always zero
  */
 int main(int argc, char *argv[])
 {
