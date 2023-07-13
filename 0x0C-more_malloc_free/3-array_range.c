@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * array range - how big is array
+ * array_range - how big is array
  * @min: smallest
  * @max: largest
  * Return: integer value
